@@ -1,0 +1,324 @@
+   lxc-monitord 20170223203018.103 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223203018.103 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 13036 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223203018.109 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223203018.110 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223203048.384 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223203048.384 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223214516.450 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223214516.450 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 13779 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214516.456 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214516.457 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223214552.979 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223214552.979 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223214624.607 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223214624.607 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 13819 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214624.614 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214624.615 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223214633.719 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214633.726 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214633.727 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223214648.194 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214648.200 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223214648.201 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223214718.418 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223214718.418 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215132.935 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215132.935 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 14188 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215132.940 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215132.941 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223215208.566 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223215208.566 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215402.536 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215402.536 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 14229 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215402.541 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215402.542 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223215423.812 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215423.818 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215423.819 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223215454.389 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223215454.390 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215546.354 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215546.354 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 14525 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215546.357 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223215617.689 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223215617.689 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215620.357 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223215620.357 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 14668 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215620.411 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223215620.419 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223215650.188 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223215650.188 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220047.621 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220047.621 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 15004 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220047.622 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223220118.897 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223220118.897 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220157.726 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220157.727 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 15152 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220157.732 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220157.733 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223220233.370 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223220233.370 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220238.418 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220238.418 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 15196 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220238.424 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220238.425 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223220314.778 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223220314.778 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220419.505 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220419.505 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 15239 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220419.511 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220419.512 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223220455.130 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223220455.130 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220649.515 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220649.516 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 789 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220649.521 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220649.522 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223220711.372 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220711.378 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220711.379 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223220747.199 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223220747.200 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220758.281 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223220758.281 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 868 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220758.286 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223220758.287 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223220833.908 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223220833.908 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223224501.328 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223224501.328 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 1072 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223224501.334 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223224501.335 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223224525.170 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223224525.175 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223224525.176 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223224555.407 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223224555.407 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223225758.471 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170223225758.471 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 1502 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223225758.477 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170223225758.478 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170223225828.675 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170223225828.675 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170227234502.243 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170227234502.243 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 18280 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170227234502.244 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170227234534.627 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170227234534.627 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170227235000.331 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170227235000.332 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 18485 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170227235000.337 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170227235000.338 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170227235030.532 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170227235030.532 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170228003701.703 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170228003701.703 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 19613 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228003701.704 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228003706.987 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228003706.988 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228003738.263 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170228003738.263 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170228003949.709 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170228003949.711 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 831 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228003949.716 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228003949.717 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228003952.901 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228003952.970 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228003952.978 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228004022.279 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170228004022.279 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170228004802.780 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170228004802.780 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 1474 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228004802.781 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228004806.730 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228004806.731 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228004926.211 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20170228004926.212 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 784 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228004926.217 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228004926.218 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228004929.695 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228004929.702 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20170228004929.703 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20170228004959.945 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20170228004959.946 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180305230818.657 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180305230818.658 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 21163 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180305230818.664 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180305230850.484 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180305230850.485 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180305231343.735 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180305231343.735 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 21498 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180305231343.740 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180305231343.741 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180305231413.974 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180305231413.974 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180305231431.882 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180305231431.882 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 21798 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180305231431.888 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180305231438.601 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180305231438.607 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180305231438.608 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180305231508.879 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180305231508.879 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180307185301.617 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180307185301.618 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 794 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307185301.624 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307185301.625 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180307185304.925 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307185304.931 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307185304.932 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180307185335.316 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180307185335.317 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180307190627.837 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180307190627.838 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 820 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307190627.843 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307190627.844 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180307190632.843 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307190632.849 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180307190632.850 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180307190703.923 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180307190703.923 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309013240.910 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309013240.920 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 828 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309013240.926 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309013240.927 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309013245.221 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309013245.227 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309013245.228 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309013315.517 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180309013315.517 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309221214.700 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309221214.711 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 800 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221214.717 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221214.718 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309221216.991 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221216.997 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221216.997 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309221247.280 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180309221247.280 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309221832.518 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309221832.519 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 780 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221832.526 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221832.527 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309221847.658 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221847.719 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309221847.727 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309221917.343 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180309221917.343 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309223202.403 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309223202.404 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 789 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309223202.410 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309223202.411 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309223204.307 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309223204.313 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309223204.314 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309223234.620 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180309223234.621 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309231615.716 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309231615.717 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 805 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309231615.723 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309231615.724 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309231617.708 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309231617.714 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309231617.715 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309231648.270 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180309231648.279 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309232631.662 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180309232631.663 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 801 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309232631.669 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309232631.670 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309232633.784 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309232633.790 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180309232633.791 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180309232704.302 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180309232704.303 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180310000432.222 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180310000432.222 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 1606 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180310000432.223 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180310000437.265 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180310000437.266 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180310000444.758 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180310000444.763 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180310000444.764 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180310000447.533 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180310000447.538 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180310000447.539 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180310000517.820 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180310000517.820 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311160446.838 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311160446.839 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 843 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311160446.846 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311160446.846 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311160449.120 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311160449.125 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311160449.126 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311160519.411 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311160519.411 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311164933.707 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311164933.708 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 804 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311164933.713 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311164933.714 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311164935.538 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311164935.544 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311164935.544 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311165005.803 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311165005.803 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311172342.828 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311172342.840 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 798 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311172342.898 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311172342.905 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311172343.900 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311172343.906 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311172343.907 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311172414.227 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311172414.227 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311174824.729 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311174824.730 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 787 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311174824.735 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311174824.736 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311174834.807 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311174834.812 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311174834.813 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311174905.136 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311174905.136 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311175202.341 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311175202.342 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 782 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311175202.348 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311175202.349 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311175204.660 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311175204.666 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311175204.667 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311175234.976 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311175234.976 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311181754.891 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311181754.892 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 1605 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311181754.892 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311181800.314 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311181800.315 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311181831.644 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311181831.644 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311184223.486 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311184223.486 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 2080 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311184223.492 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311184223.493 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311184250.562 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311184250.568 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311184250.569 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311184326.213 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311184326.213 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311184350.103 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311184350.103 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 2160 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311184350.109 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311184350.113 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311184425.745 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311184425.745 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311222900.452 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
+   lxc-monitord 20180311222900.458 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 1197 is now monitoring lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311222900.464 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311222900.465 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311222902.446 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311222902.453 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /home/achalabi/.local/share/lxc.
+   lxc-monitord 20180311222902.454 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 5. Number of accepted file descriptors is now 1.
+   lxc-monitord 20180311222932.764 NOTICE   lxc_monitord - lxc_monitord.c:main:426 - No remaining clients. lxc-monitord is exiting.
+   lxc-monitord 20180311222932.764 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:185 - Using monitor socket name "lxc/33eabcc2f62b1fa7//home/achalabi/.local/share/lxc".
