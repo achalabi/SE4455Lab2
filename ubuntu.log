@@ -1,0 +1,7 @@
+      lxc-start 20180309211019.973 ERROR    lxc_start_ui - tools/lxc_start.c:main:301 - Container is already running.
+      lxc-start 20180311174824.802 ERROR    lxc_cgfsng - cgroups/cgfsng.c:cgfsng_setup_limits:1949 - No such file or directory - Error setting cpuset.cpus to 1 for ubuntu
+      lxc-start 20180311174824.802 ERROR    lxc_start - start.c:lxc_spawn:1190 - Failed to setup cgroup limits for container "ubuntu".
+      lxc-start 20180311174824.803 ERROR    lxc_start - start.c:__lxc_start:1346 - Failed to spawn container "ubuntu".
+      lxc-start 20180311174830.360 ERROR    lxc_start_ui - tools/lxc_start.c:main:366 - The container failed to start.
+      lxc-start 20180311174830.360 ERROR    lxc_start_ui - tools/lxc_start.c:main:368 - To get more details, run the container in foreground mode.
+      lxc-start 20180311174830.360 ERROR    lxc_start_ui - tools/lxc_start.c:main:370 - Additional information can be obtained by setting the --logfile and --logpriority options.

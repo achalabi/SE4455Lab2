@@ -1,0 +1,15 @@
+Name:           ubuntu2
+State:          RUNNING
+PID:            1025
+IP:             10.0.4.107
+IP:             10.0.4.118
+Memory use:     41.61 MiB
+KMem use:       4.23 MiB
+Link:           vethG3NNXG
+ TX bytes:      2.09 KiB
+ RX bytes:      6.06 KiB
+ Total bytes:   8.14 KiB
+Link:           vethUTVUC7
+ TX bytes:      2.87 KiB
+ RX bytes:      6.84 KiB
+ Total bytes:   9.72 KiB
